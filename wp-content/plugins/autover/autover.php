@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Autover 123
+ * Plugin Name: Autover 321
  * Plugin URI: https://wordpress.org/plugins/autover/
  * Description: Automatically version your CSS and JS files enqueued through the Wordpress API
  * Author: Presslabs
